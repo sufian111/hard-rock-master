@@ -125,7 +125,7 @@ function getLyricsOne(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(a);
+
     
 }
 
@@ -143,7 +143,7 @@ function getLyricsTwo(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(a);
+
     
 }
 
@@ -161,7 +161,7 @@ function getLyricsThree(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(a);
+
     
 }
 
@@ -179,7 +179,7 @@ function getLyricsFour(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(a);
+
     
 }
 
@@ -197,7 +197,7 @@ function getLyricsFive(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(a);
+
 }
 
 
@@ -216,7 +216,7 @@ function getLyricsSix(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(a);
+
     
 }
 
@@ -234,8 +234,7 @@ function getLyricsSeven(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(a);
-    
+
 }
 
 
@@ -252,7 +251,7 @@ function getLyricsEight(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(a);
+
     
 }
 
@@ -270,7 +269,7 @@ function getLyricsNine(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(a);
+
     
 }
 
@@ -288,5 +287,5 @@ function getLyricsTen(){
         document.getElementById("story").innerText = allLyrics; 
     })
     document.getElementById("songHeader").innerText = songTitle;
-    console.log(ten);
+
 }
